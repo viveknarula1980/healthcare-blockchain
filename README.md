@@ -93,7 +93,7 @@ To get started with the Bank Loan Contract built with Solidity, make sure you ha
 
 9. Metamask (Optional):
 .Installation: Install Metamask
-.Metamask is a browser extension wallet that allows you to interact with the Ethereum network. You can use it for deploying contracts to live networks or testnets like Rinkeby.
+.Metamask is a browser extension wallet that allows you to interact with the Ethereum network. You can use it for deploying contracts to live networks or testnets like Rinkeby
 
 11. Infura (Optional, for deploying to testnet or mainnet):
 .Sign up: Create an account on Infura
