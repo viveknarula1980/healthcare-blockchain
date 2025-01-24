@@ -61,8 +61,10 @@ This is a  **Bank Loan Contract** built using **Solidity** that allows borrowers
 
 1.Clone the repository:
 git clone https://github.com/viveknarula1980/healthcare-blockchain.git
+
 2.Navigate into the project directory:
 cd healthcare-blockchain
+
 3.Install dependencies:
 npm install
 
