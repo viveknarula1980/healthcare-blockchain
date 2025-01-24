@@ -106,3 +106,8 @@ To get started with the Bank Loan Contract built with Solidity, make sure you ha
 ![image](https://github.com/user-attachments/assets/c118314c-a1c3-44f8-8cec-a791720bd1d0)
 
 
+## Contributing:
+
+Contributions are welcome! Please open an issue to discuss proposed changes or submit a pull request.
+
+
