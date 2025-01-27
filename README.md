@@ -57,7 +57,7 @@ This is a  **Bank Loan Contract** built using **Solidity** that allows borrowers
   - `loanId`: The ID of the loan.
 - **Returns**: Two boolean values indicating whether the loan is approved and repaid.
 
----
+
 
 1.Clone the repository:
 git clone https://github.com/viveknarula1980/healthcare-blockchain.git
